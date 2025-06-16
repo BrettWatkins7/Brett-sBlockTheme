@@ -109,7 +109,7 @@
         "elements": {
             "link": {
                 "color": {
-                    "text": "var(--wp--preset--color--accent-2)"
+                    "text": "var(--wp--preset--color--accent)"
                 }
             }
         },

@@ -15,3 +15,7 @@ Requires PHP: 7.2.
 .wp-block-site-logo:hover{
     opacity: 0.8;
 }
+
+.header-menu a:hover{
+  color: var(--wp--preset--color--base);
+}

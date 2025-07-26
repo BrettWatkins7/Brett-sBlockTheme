@@ -117,6 +117,13 @@
         },
         "typography": {
             "fontSize": "var(--wp--preset--font-size--theme-medium)"
+        },
+        "blocks":{
+          "core/cover":{
+            "spacing":{
+              "margin": "0"
+            }
+          }
         }
     }
     

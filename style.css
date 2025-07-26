@@ -8,6 +8,10 @@ Tested up to: 6.8.
 Requires PHP: 7.2.
 */
 
+.site-header{
+    z-index: 100;
+}
+
 .wp-block-site-logo:hover{
     opacity: 0.8;
 }

@@ -16,6 +16,6 @@ Requires PHP: 7.2.
     opacity: 0.8;
 }
 
-.header-nav > ul > li > a:hover{
+.header-nav a:hover .wp-block-navigation-item{
   color: #ffffff !important;
 }

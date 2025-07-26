@@ -124,9 +124,9 @@
               "margin": "0"
             }
           },
-          "core/navigation-link":{
+          "core/navigation":{
             "elements":{
-              "links":{
+              "link":{
                 "hover":{
                   "color":{
                     "text": "#ffffff"

@@ -30,6 +30,11 @@
                     "slug": "accent-3",
                     "color": "#4fb3fb",
                     "name": "Accent Three"
+                },
+                {
+                    "slug": "light-grey",
+                    "color": "#0dddf75",
+                    "name": "Light Grey"
                 }
             ],
             "gradients": [

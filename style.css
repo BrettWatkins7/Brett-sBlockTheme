@@ -16,6 +16,6 @@ Requires PHP: 7.2.
     opacity: 0.8;
 }
 
-.wp-block-navigation-link a:hover{
+.wp-block-navigation-item__label:hover{
   color: #ffffff !important;
 }

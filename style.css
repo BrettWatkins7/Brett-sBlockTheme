@@ -16,6 +16,6 @@ Requires PHP: 7.2.
     opacity: 0.8;
 }
 
-.header-nav a:hover span{
+.header-nav > ul > li > a:hover{
   color: #ffffff !important;
 }

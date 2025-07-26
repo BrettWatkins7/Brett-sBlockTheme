@@ -17,5 +17,5 @@ Requires PHP: 7.2.
 }
 
 .header-nav a:hover{
-  color: var(--wp--preset--color--base);
+  color: #ffffff;
 }

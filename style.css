@@ -7,3 +7,7 @@ Requires at least: 6.8.
 Tested up to: 6.8.
 Requires PHP: 7.2.
 */
+
+.wp-block-site-logo:hover{
+    opacity: 0.8;
+}

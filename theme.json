@@ -123,6 +123,17 @@
             "spacing":{
               "margin": "0"
             }
+          },
+          "core/navigation-link":{
+            "elements":{
+              "links":{
+                "hover":{
+                  "color":{
+                    "text": "#ffffff"
+                  }
+                }
+              }
+            }
           }
         }
     }
